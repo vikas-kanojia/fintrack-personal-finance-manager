@@ -84,21 +84,33 @@ Vercel| Deployment
 fintrack-personal-finance-manager/
 │
 ├── public/
+
 ├── src/
+
 │   ├── components/
+
 │   ├── pages/
+
 │   ├── hooks/
+
 │   ├── lib/
+
 │   ├── utils/
+
 │   ├── types/
+
 │   └── App.tsx
-│
+
 ├── supabase/
+
 │   └── schema.sql
-│
+
 ├── .env.example
+
 ├── package.json
+
 ├── README.md
+
 └── ...
 
 The structure above is illustrative; adjust it to match the actual project files.
