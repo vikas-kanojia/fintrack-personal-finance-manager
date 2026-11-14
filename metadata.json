@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack",
+  "description": "Personal Finance Manager for tracking INR income, expenses, budgets, savings, analytics, recurring payments, and financial goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
